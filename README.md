@@ -12,8 +12,6 @@
   <a href="#-özellikler">Özellikler</a> •
   <a href="#-ekran-görüntüleri-ve-akış-11-adım">Ekran Görüntüleri</a> •
   <a href="#-teknoloji-yığını">Teknolojiler</a> •
-  <a href="#-kurulum">Kurulum</a> •
-  <a href="#-iletişim">İletişim</a>
 </p>
 
 ---
