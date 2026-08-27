@@ -1,7 +1,8 @@
 # 🪵 Carpenter Solutions - Smart Cabinet Designer & Workshop Management
 
 <p align="center">
-  <img src="screenshots/banner.png" alt="Carpenter Solutions Banner" width="100%">
+ <img width="443" height="971" alt="main page" src="https://github.com/user-attachments/assets/d100804f-f948-4505-97bd-279b8f40bf9f" />
+
 </p>
 
 <p align="center">
