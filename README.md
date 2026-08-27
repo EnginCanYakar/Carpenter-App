@@ -46,7 +46,8 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Aktif ve tamamlanan siparişlerin listelendiği, hızlı işlem butonlarının bulunduğu ana gösterge paneli.*
 
 <p align="center">
-  <img src="screenshots/01_home_dashboard.png" alt="01 - Ana Sayfa & Sipariş Paneli" width="360">
+  <img width="443" height="971" alt="main page" src="https://github.com/user-attachments/assets/48aaf433-1d6a-4f6e-819d-d69bbc7897a7" />
+
 </p>
 
 ---
@@ -55,7 +56,9 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Dolap tipi seçimi, en/boy/derinlik slider ayarları ve gövde malzeme/doku kataloğu.*
 
 <p align="center">
-  <img src="screenshots/02_dimensions_materials.png" alt="02 - Ölçü ve Malzeme Seçimi" width="360">
+ <img width="443" height="971" alt="1st order" src="https://github.com/user-attachments/assets/33ffed6f-d859-4699-8f30-e3fd1d879ea6" />
+ <img width="443" height="971" alt="1st page devam" src="https://github.com/user-attachments/assets/54f1e0ea-bfb4-4437-848a-765c198226e3" />
+
 </p>
 
 ---
@@ -64,7 +67,10 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Canlı 3D önizleme üzerinde dolap içine dikey/yatay raflar ekleme ve konumlandırma.*
 
 <p align="center">
-  <img src="screenshots/03_3d_shelves_setup.png" alt="03 - 3D Raf Yerleşimi" width="360">
+  <img width="443" height="971" alt="3D" src="https://github.com/user-attachments/assets/40763548-46f3-41bf-b953-5076c2550b0c" />
+  
+
+
 </p>
 
 ---
@@ -73,7 +79,7 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Alt baza veya gövde içerisine özel ön kapak yüksekliğine sahip çekmecelerin eklenmesi.*
 
 <p align="center">
-  <img src="screenshots/04_drawers_configuration.png" alt="04 - Çekmece Ekleme ve Ayar" width="360">
+  <img width="443" height="971" alt="3D devam" src="https://github.com/user-attachments/assets/1fce173c-2b64-486d-9540-98d0f79bd8a8" />
 </p>
 
 ---
@@ -82,7 +88,8 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Üretim ve montaj için gerekli milimetrik ölçüleri gösteren 2D teknik mimari şema.*
 
 <p align="center">
-  <img src="screenshots/05_2d_blueprint.png" alt="05 - 2D Teknik Çizim" width="360">
+  <img width="443" height="971" alt="2D" src="https://github.com/user-attachments/assets/f3966f26-0d60-4387-a072-741599e98794" />
+
 </p>
 
 ---
@@ -91,7 +98,8 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Malzeme metrekare fiyatları, hırdavat kalemleri, işçilik, kâr marjı ve plaka kesim listesi özeti.*
 
 <p align="center">
-  <img src="screenshots/06_cost_and_cut_summary.png" alt="06 - Maliyet ve Kesim Listesi" width="360">
+  <img width="443" height="971" alt="3rd page calculation" src="https://github.com/user-attachments/assets/48eeacc6-0319-4bdd-997b-9f3dc3da87be" />
+
 </p>
 
 ---
@@ -100,7 +108,8 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Hesaplanan tasarımı müşteri bilgisi, nihai satış bedeli ve kapora bilgisiyle siparişe dönüştürme.*
 
 <p align="center">
-  <img src="screenshots/07_save_order_customer.png" alt="07 - Sipariş Kaydı" width="360">
+  <img width="443" height="971" alt="Samsung Galaxy S20 5G" src="https://github.com/user-attachments/assets/e27dc19b-9deb-4db4-8f83-8b93554c5ceb" />
+
 </p>
 
 ---
@@ -109,34 +118,33 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 > *Sipariş durumunu "Hazırlanıyor", "Montajda" veya "Tamamlandı" olarak güncelleme ve detay takibi.*
 
 <p align="center">
-  <img src="screenshots/08_order_details_status.png" alt="08 - Sipariş Detayı ve Durum" width="360">
+  <img width="443" height="971" alt="orders" src="https://github.com/user-attachments/assets/06879e26-b62b-4a6e-9e9e-e8ceb4c4f2c4" />
+
 </p>
 
 ---
 
-### 9. Ödeme & Kapora Tahsilat Ekranı
-> *Kalan bakiye üzerinden parça veya tam ödeme alma ve kayıt altına alma.*
 
-<p align="center">
-  <img src="screenshots/09_receive_payment.png" alt="09 - Ödeme Alma Ekranı" width="360">
-</p>
 
 ---
 
-### 10. Müşteri Yönetimi & Sipariş Geçmişi
+### 9. Müşteri Yönetimi & Sipariş Geçmişi
 > *Tüm müşteri rehberi, ödeme durumları (Tamamlandı / Kısmi Ödendi) ve geçmiş siparişler.*
 
 <p align="center">
-  <img src="screenshots/10_customer_management.png" alt="10 - Müşteri Yönetimi" width="360">
+  <img width="443" height="971" alt="customer page" src="https://github.com/user-attachments/assets/da93b737-a553-408e-89fd-d47b627681ef" />
+
 </p>
 
 ---
 
-### 11. Atölye, Fiyatlandırma & Birim Ayarları
+### 10. Atölye, Fiyatlandırma & Birim Ayarları
 > *Plaka boyutları, bıçak payı (kerf), m² malzeme birim fiyatları, işçilik ücreti ve Excel dışa aktarım ayarları.*
 
 <p align="center">
-  <img src="screenshots/11_workshop_settings.png" alt="11 - Atölye ve Fiyat Ayarları" width="360">
+  <img width="443" height="971" alt="ayarlar" src="https://github.com/user-attachments/assets/38f6e57b-e5d4-457f-8fb4-1dacb59feb28" />
+  <img width="443" height="971" alt="settings devam" src="https://github.com/user-attachments/assets/30870886-bbe1-410c-8d45-eedbcb076c77" />
+
 </p>
 
 ---
