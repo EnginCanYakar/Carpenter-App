@@ -159,17 +159,4 @@ Kullanıcılar milimetrik hassasiyetle 3D dolap tasarlayabilir, malzeme ve işç
 
 ---
 
-## 🚀 Kurulum (Local Development)
 
-```bash
-# Projeyi klonlayın
-git clone [https://github.com/kullanici-adiniz/carpenter-solutions.git](https://github.com/kullanici-adiniz/carpenter-solutions.git)
-
-# Proje dizinine gidin
-cd carpenter-solutions
-
-# Bağımlılıkları yükleyin
-flutter pub get
-
-# Uygulamayı başlatın
-flutter run
